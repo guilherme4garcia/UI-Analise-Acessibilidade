@@ -6,3 +6,4 @@ Permite você acessar um objeto de **qualquer lugar** da sua aplicação, garant
 
 
 ### UML
+![](https://github.com/guilherme4garcia/bertoti/blob/main/ESIII/Singleton/Singleton.png)
