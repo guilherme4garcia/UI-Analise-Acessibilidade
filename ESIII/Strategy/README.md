@@ -3,3 +3,4 @@ O Strategy é um padrão de projeto comportamental que permite que você defina 
 
 
 ### UML
+![](https://raw.githubusercontent.com/guilherme4garcia/bertoti/main/ESIII/Strategy/Strategy.png)
