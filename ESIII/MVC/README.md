@@ -1,4 +1,4 @@
-# oop-typescript-wb
+# MVC - Typescript
 
 ### Install dependencies
 
