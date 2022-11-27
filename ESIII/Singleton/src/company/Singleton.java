@@ -16,8 +16,9 @@ public class Singleton {
         
         // if para garantir que exista apenas uma instância
         
-        // Wrap synchronized para previnir que multiplos threads possam tentar acessar essa instância ao mesmo tempo.
         if (result == null) {
+             
+            // Wrap synchronized para previnir que multiplos threads possam tentar acessar essa instância ao mesmo tempo.
             synchronized (Singleton.class) {
                 result = instance;
                 if (result == null) {
