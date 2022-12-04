@@ -4,4 +4,4 @@
 
 
 ### UML
-![UML COMPOSITE](https://raw.githubusercontent.com/guilherme4garcia/bertoti/main/ESIII/Composite/Composite.png)
+![UML COMPOSITE](https://github.com/guilherme4garcia/bertoti/blob/main/ESIII/pattern-structure-assets/Composite.png?raw=true)
